@@ -1,0 +1,3 @@
+nettruyenpro.com,nettruyentop.com,nhattruyentranh.com,nettruyengo.com,nhattruyenvip.com##.container.text-center.mrb5
+nettruyentop.com,nettruyenpro.com,nhattruyentranh.com,nettruyengo.com,nhattruyenvip.com##.container div:not(.top) > div.mrb5.mrt5.text-center > a
+
